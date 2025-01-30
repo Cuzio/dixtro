@@ -1,12 +1,12 @@
 .prev-button {
   position: absolute;
-  left: 10px;
-  bottom: 0px;
+  left: 0px;
+  bottom: -40px;
 }
 .prev {
   background-color: inherit;
-  border: 4px solid #fcd34d;
-  color: #fcd34d;
+  border: 4px solid #34c759;
+  color: #fbfbfb;
   height: 50px;
   width: 50px;
   border-radius: 50%;
