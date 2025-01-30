@@ -1,0 +1,20 @@
+.call {
+  background-image: url("../images/CallBack.png");
+  text-align: center;
+  padding: 1.5rem 0;
+}
+.callno {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+.call p {
+  font-size: 32px;
+  color: #fbfbfb;
+}
+.callno h2 {
+  font-size: 48px;
+  color: #fbfbfb;
+  font-weight: 700;
+}

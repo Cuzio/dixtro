@@ -1,0 +1,39 @@
+.work {
+  margin: 8rem auto;
+}
+.work h2 {
+  text-align: center;
+  color: #032b44;
+  font-size: 35px;
+  margin: 2rem 0;
+}
+.work-content {
+  gap: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.work-delivery {
+  width: 50%;
+}
+.work-content-text {
+  /* border: 2px red solid; */
+  width: 50%;
+}
+.work-text {
+  gap: 1rem;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin: 0.5rem 0;
+}
+.work-text h4 {
+  font-size: 25px;
+  color: #032b44;
+  font-weight: 500;
+}
+.work-text p {
+  font-size: 16px;
+  color: #333333;
+  font-weight: 500;
+}

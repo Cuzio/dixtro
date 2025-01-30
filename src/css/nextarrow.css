@@ -1,0 +1,17 @@
+.next-button {
+  position: absolute;
+  left: 100px;
+  bottom: 0px;
+}
+.next {
+  background-color: inherit;
+  border: 4px solid #fcd34d;
+  color: #fcd34d;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}

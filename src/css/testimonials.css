@@ -1,0 +1,20 @@
+.testimonials {
+  margin: 4rem auto;
+  text-align: center;
+}
+.testimonials h2 {
+  color: #333333;
+  font-size: 35px;
+  font-weight: 600;
+  margin: 2rem 0;
+}
+.test-other-card {
+  padding: 0 0 1rem;
+}
+.test-card {
+  border: 2px solid #fbfbfb;
+  border-radius: 10px;
+  box-shadow: 12px 12px 2px 1px;
+  padding: 2rem;
+  margin-right: 2rem;
+}

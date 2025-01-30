@@ -1,0 +1,112 @@
+.testimonial {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 4rem 0;
+  gap: 2rem;
+  /* border: 2px solid red; */
+}
+.testimonial-header {
+  width: 100%;
+}
+.testimonial-head-text {
+  width: 100%;
+}
+.testimonial-head-text h1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 35px;
+  font-weight: 600;
+  color: #032b44;
+}
+.testimonial-head-text h1 span {
+  color: #34c759;
+}
+.testimonial-head-text p {
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  color: #333333;
+}
+.testimonial-head-btn {
+  width: 100%;
+}
+.testimonial-btn {
+  background-color: #032b44;
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+  padding: 20px 35px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+}
+.testimonial-btn a {
+  color: #ffffff;
+  text-decoration: none;
+}
+.testimonial-card {
+  width: 70%;
+  /* border: 2px solid red; */
+}
+.slider-container {
+  height: auto;
+  overflow: visible;
+  width: 100%;
+}
+
+.testimonial-other-card {
+  padding: 0 0 6rem;
+  margin-right: 1rem;
+}
+.testimonial-inner-card {
+  border: 1px solid #032b44;
+  padding: 2rem;
+  margin: 0 1rem;
+  border-radius: 20px;
+}
+.testimonial-inner-card:hover {
+  background-color: #032b44;
+  color: #34c759;
+  object-fit: cover;
+}
+.testimonial-other-icon {
+  width: 100%;
+  margin: 1rem 0;
+}
+.testimonial-other-title {
+  color: #0f172a;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 20px;
+  margin-top: 1rem;
+}
+.testimonial-other-text {
+  color: #000;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  margin-top: 1rem;
+}
+.other-person {
+  display: flex;
+  gap: 1rem;
+  margin-top: 2rem;
+  align-items: center;
+}
+.other-person-text {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+}
+.other-person-text h5 {
+  color: #0f172a;
+  padding-top: 1rem;
+  margin-bottom: 0;
+}
+.other-person-text p {
+  color: #475569;
+}

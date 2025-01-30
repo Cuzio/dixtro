@@ -1,0 +1,36 @@
+.faq {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10rem 0;
+  gap: 3rem;
+}
+.faq-text {
+  width: 50%;
+}
+.faq-text h2 {
+  font-size: 35px;
+  color: #333333;
+}
+.faq-detail {
+  border: 2px solid #fbfbfb;
+  margin: 2rem 0;
+  padding: 1rem;
+  border-radius: 10px;
+  color: #333333;
+  box-shadow: -5px 5px 2px 1px;
+  cursor: pointer;
+}
+.faq-summary {
+  font-size: 20px;
+}
+.faq-detail p {
+  margin-top: 1rem;
+}
+/* .faq-image {
+    } */
+.faq-img {
+  width: 100%;
+  border-radius: 20px;
+  box-shadow: -15px 15px 2px 1px;
+}

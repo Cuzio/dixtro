@@ -1,0 +1,26 @@
+.logistics {
+  background-color: #333333;
+}
+.logistics-body {
+  margin: 0 5rem;
+  padding: 5rem 0;
+  color: #fff;
+}
+.logistics-body h2 {
+  text-align: center;
+}
+.logistics-cards {
+  display: flex;
+  margin: 4rem 0;
+  align-items: center;
+  justify-content: space-between;
+}
+.logistics-card {
+  max-width: 278px;
+}
+.logistics-card h4 {
+  font-size: 25px;
+}
+.logistics-card p {
+  font-size: 16px;
+}
