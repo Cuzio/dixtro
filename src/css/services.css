@@ -71,11 +71,11 @@
   margin: 0 1rem;
   border-radius: 20px;
 }
-.inner-card:hover {
+/* .inner-card:hover {
   background-color: #032b44;
   color: #34c759;
   object-fit: cover;
-}
+} */
 .other-icon {
   width: 10%;
   margin: 1rem 0;

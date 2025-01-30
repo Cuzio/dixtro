@@ -243,9 +243,9 @@ const Hero = () => {
                 </li>
                 <li className="nav-item mx-5 mt-1 tel-link">
                   <button className="create">
-                    <a className="nav-link tel" href="tel:07041542904">
+                    <a className="nav-link tel" href="tel:07023456789">
                       <IoMdHeadset className="mb-1 mx-1" />
-                      07041542904
+                      07023456789
                     </a>
                   </button>
                 </li>
@@ -279,7 +279,10 @@ const Hero = () => {
             </p>
 
             <button class="button-30" role="button">
-              MORE ABOUT US
+              <a className="nav-link tel" href="tel:07041542904">
+                {/* <IoMdHeadset className="mb-1 mx-1" /> */}
+                <h4>Call now</h4>
+              </a>
             </button>
           </div>
           <div className="about-image">
