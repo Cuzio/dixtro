@@ -208,18 +208,13 @@ const Hero = () => {
                   <a
                     className="nav-link petrite-link"
                     aria-current="page"
-                    href="#home"
-                    onClick={handleLinkClick}
+                    href="/"
                   >
                     Home
                   </a>
                 </li>
                 <li className="nav-item petrites-link">
-                  <a
-                    className="nav-link petrite-link"
-                    href="#about-us"
-                    onClick={handleLinkClick}
-                  >
+                  <a className="nav-link petrite-link" href="/about">
                     About Us
                   </a>
                 </li>

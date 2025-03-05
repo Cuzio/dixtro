@@ -15,6 +15,7 @@ import Work from "../components/Work";
 import Call from "../components/Call";
 import Testimonials from "../components/Testimonials";
 import FAQ from "../components/FAQ";
+import Footer from "../components/Footer";
 
 const Homepage = () => {
   const location = useLocation();
@@ -64,6 +65,7 @@ const Homepage = () => {
       <Testimonials />
       {/* <Testimonial /> */}
       <FAQ />
+      <Footer />
     </div>
   );
 };

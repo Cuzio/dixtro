@@ -1,0 +1,37 @@
+.about-hero {
+  background-image: url("../images/about.png");
+  text-align: center;
+  height: 70vh;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-bottom: 5rem;
+}
+.about-welcome {
+  margin: 0 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8rem;
+}
+.vision {
+  margin: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8rem;
+}
+.vision-context {
+  display: flex;
+  align-items: start;
+  gap: 1rem;
+  /* justify-content: space-between; */
+}
+.visionTarget {
+  font-size: 30px;
+  margin-top: 0.5rem;
+}
